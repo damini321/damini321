@@ -1,6 +1,6 @@
 <h1>Hey there, I'm <a  href="https://github.com/damini321">Damini</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Nice to see you.</h1>
 
-<h2>Backend developer from India. ❤️ </h2>
+<h2>Frontend developer from India. ❤️ </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <div align="center">
 You have finally discovered my Github profile. <br>
@@ -10,7 +10,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-F7DF1E?style=for-the-badge&logo=docker&logoColor=black" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
          <img alt="Firebase" src="https://img.shields.io/badge/Firebase-0081CB?&style=for-the-badge&logo=firebase&logoColor=white" />
@@ -29,7 +28,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
       </p>
 
 ## About Personal Stuffs
-- 🔭 I’m currently working as a **Backend Developer**. 
+- 🔭 I’m currently working as a **Frontend Developer**. 
 - 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
 - 👯 I’d really like to collaborate on **Django** & **Flask** based projects.
 - 📚 I’m looking forward to contribute to **Open Source Projects**.
@@ -40,15 +39,15 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/samir321-pixel/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir321-pixel&theme=radical&hide_border=true&background=0D1117&stroke=0000"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=radical&show_icons=true"/>
+  <a href="https://github.com/damini321/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=damini321&theme=radical&hide_border=true&background=0D1117&stroke=0000"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=damini32l&theme=radical&show_icons=true"/>
   </a>
 </p>
 
 
 <h3>Where to find me 😃 </h3>
-<p><a href="https://github.com/samir321-pixel" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Samir_Saitwal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<p><a href="https://github.com/damini321" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Samir_Saitwal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="mailto:saitwalsamir@gmail.com/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
 </a> 
