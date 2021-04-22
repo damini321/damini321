@@ -28,7 +28,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
       </p>
 
 ## About Personal Stuffs
-- 🔭 I’m currently working as a **Frontend Developer**. 
+- 🔭 I’m currently working as a **Backend Developer**. 
 - 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
 - 👯 I’d really like to collaborate on **Django** & **Flask** based projects.
 - 📚 I’m looking forward to contribute to **Open Source Projects**.
